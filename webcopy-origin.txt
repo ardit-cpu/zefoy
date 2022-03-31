@@ -1,0 +1,80 @@
+Uri: https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js
+File Name: C:\Users\Sokol Berisha\Desktop\dss\zefoy.com\ajax\libs\jquery\3.1.1\jquery.min.js
+Content Type: text/javascript
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.css
+File Name: C:\Users\Sokol Berisha\Desktop\dss\zefoy.com\ajax\libs\font-awesome\4.7.0\css\font-awesome.css
+Content Type: text/css
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/fonts/fontawesome-webfont.eot?
+File Name: C:\Users\Sokol Berisha\Desktop\dss\zefoy.com\ajax\libs\font-awesome\4.7.0\fonts\fontawesome-webfont-1.eot
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/fonts/fontawesome-webfont.eot?v=4.7.0
+File Name: C:\Users\Sokol Berisha\Desktop\dss\zefoy.com\ajax\libs\font-awesome\4.7.0\fonts\fontawesome-webfont.eot
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/fonts/fontawesome-webfont.svg?v=4.7.0
+File Name: C:\Users\Sokol Berisha\Desktop\dss\zefoy.com\ajax\libs\font-awesome\4.7.0\fonts\fontawesome-webfont.svg
+Content Type: image/svg+xml
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/fonts/fontawesome-webfont.ttf?v=4.7.0
+File Name: C:\Users\Sokol Berisha\Desktop\dss\zefoy.com\ajax\libs\font-awesome\4.7.0\fonts\fontawesome-webfont.ttf
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/fonts/fontawesome-webfont.woff2?v=4.7.0
+File Name: C:\Users\Sokol Berisha\Desktop\dss\zefoy.com\ajax\libs\font-awesome\4.7.0\fonts\fontawesome-webfont.woff2
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/fonts/fontawesome-webfont.woff?v=4.7.0
+File Name: C:\Users\Sokol Berisha\Desktop\dss\zefoy.com\ajax\libs\font-awesome\4.7.0\fonts\fontawesome-webfont.woff
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/materialize/0.97.6/js/materialize.min.js
+File Name: C:\Users\Sokol Berisha\Desktop\dss\zefoy.com\ajax\libs\materialize\0.97.6\js\materialize.min.js
+Content Type: application/javascript
+
+Uri: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js
+File Name: C:\Users\Sokol Berisha\Desktop\dss\zefoy.com\pagead\js\f.txt
+Content Type: text/javascript
+
+Uri: https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js
+File Name: C:\Users\Sokol Berisha\Desktop\dss\zefoy.com\bootstrap\4.5.2\js\bootstrap.min.js
+Content Type: application/javascript
+
+Uri: https://zefoy.com/
+File Name: C:\Users\Sokol Berisha\Desktop\dss\zefoy.com\index.htm
+Content Type: text/html
+
+Uri: https://zefoy.com/a1ef290e2636bf553f39817628b6ca49.php?_CAPTCHA&t=0.50537500+1648756354
+File Name: C:\Users\Sokol Berisha\Desktop\dss\zefoy.com\a1ef290e2636bf553f39817628b6ca49.php.html
+Content Type: text/html
+
+Uri: https://zefoy.com/assets/084adbdeab59f89e75747aab13bd9198.js?v=16247166200
+File Name: C:\Users\Sokol Berisha\Desktop\dss\zefoy.com\assets\084adbdeab59f89e75747aab13bd9198.js
+Content Type: application/javascript
+
+Uri: https://zefoy.com/assets/ads.js?v=16247166200
+File Name: C:\Users\Sokol Berisha\Desktop\dss\zefoy.com\assets\ads.js
+Content Type: application/javascript
+
+Uri: https://zefoy.com/assets/bootstrap.min.css?v=16247166200
+File Name: C:\Users\Sokol Berisha\Desktop\dss\zefoy.com\assets\bootstrap.min.css
+Content Type: text/css
+
+Uri: https://zefoy.com/assets/c2adfdd3ec2370494471c635874e903e.js?v=16247166200
+File Name: C:\Users\Sokol Berisha\Desktop\dss\zefoy.com\assets\c2adfdd3ec2370494471c635874e903e.js
+Content Type: application/javascript
+
+Uri: https://zefoy.com/assets/cnld950a45d32222242cc709df013ebe.js?v=16247166200
+File Name: C:\Users\Sokol Berisha\Desktop\dss\zefoy.com\assets\cnld950a45d32222242cc709df013ebe.js
+Content Type: application/javascript
+
+Uri: https://zefoy.com/assets/f49dae2c2269c486bb85979af55a7185.css?v=16247166200
+File Name: C:\Users\Sokol Berisha\Desktop\dss\zefoy.com\assets\f49dae2c2269c486bb85979af55a7185.css
+Content Type: text/css
+
+Uri: https://zefoy.com/assets/favicon.ico
+File Name: C:\Users\Sokol Berisha\Desktop\dss\zefoy.com\assets\favicon.ico
+Content Type: image/x-icon
+
